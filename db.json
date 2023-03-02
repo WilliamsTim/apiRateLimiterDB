@@ -1,0 +1,9 @@
+{
+  "apiRateLimit": [
+    {
+      "id": 1,
+      "enabled": true
+    }
+  ],
+  "queue": []
+}
